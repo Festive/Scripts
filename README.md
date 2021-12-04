@@ -1,1 +1,4 @@
-# Scripts
+- Repo containing majority if not all of the scripts that I make and post on v3rm.
+- __Most shall be open source__
+- You may do what you like with these
+- Enjoy these innit
